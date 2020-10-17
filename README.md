@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Two Part Challenge 
+Choose one Challenge (I chose HeroesOfPymoli)
 
 HeroesOfPymoli
 
